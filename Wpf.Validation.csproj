@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net7.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<RootNamespace>ChrisKaczor.Wpf.Validation</RootNamespace>
+		<Title>ChrisKaczor.Wpf.Validation</Title>
+		<Authors>Chris Kaczor</Authors>
+		<Product>ChrisKaczor.Wpf.Validation</Product>
+		<RepositoryUrl>https://github.com/ckaczor/ChrisKaczor.Wpf.Validation</RepositoryUrl>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<Description>WPF validation rules and extension methods to help with validation.</Description>
+		<PackageId>ChrisKaczor.Wpf.Validation</PackageId>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Update="README.md">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+</Project>
