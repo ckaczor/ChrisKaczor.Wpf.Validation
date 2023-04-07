@@ -12,6 +12,7 @@
 		<Description>WPF validation rules and extension methods to help with validation.</Description>
 		<PackageId>ChrisKaczor.Wpf.Validation</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<AssemblyName>ChrisKaczor.Wpf.Validation</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
 		<None Update="README.md">
